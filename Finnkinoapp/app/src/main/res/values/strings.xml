@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Finnkino app</string>
+    <string name="date">Select date</string>
+    <string name="time">Select time</string>
+    <string name="movie">Hae elokuvan nimellä</string>
+</resources>
